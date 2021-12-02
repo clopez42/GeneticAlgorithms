@@ -1,0 +1,119 @@
+Generation: 1
+Average Fitness: 80.35640000000004
+
+Generation: 2
+Average Fitness: 107.70999999999962
+
+Generation: 3
+Average Fitness: 120.38089999999836
+
+Generation: 4
+Average Fitness: 130.91930000000232
+
+Generation: 5
+Average Fitness: 137.4847000000014
+
+Generation: 6
+Average Fitness: 139.04790000000125
+
+Generation: 7
+Average Fitness: 139.4916000000012
+
+Generation: 8
+Average Fitness: 146.90000000000273
+
+Generation: 9
+Average Fitness: 147.21000000000276
+
+Generation: 10
+Average Fitness: 151.96860000000285
+
+Generation: 11
+Average Fitness: 152.03530000000288
+
+Generation: 12
+Average Fitness: 152.1000000000029
+
+Generation: 13
+Average Fitness: 152.1000000000029
+
+Generation: 14
+Average Fitness: 154.10000000000292
+
+Generation: 15
+Average Fitness: 154.10000000000292
+
+Generation: 16
+Average Fitness: 154.10000000000292
+
+Generation: 17
+Average Fitness: 154.10000000000292
+
+Generation: 18
+Average Fitness: 152.0
+
+Generation: 19
+Average Fitness: 159.79999999999959
+
+Generation: 20
+Average Fitness: 169.39999999999682
+
+Generation: 21
+Average Fitness: 169.39999999999682
+
+Generation: 22
+Average Fitness: 169.39999999999682
+
+Generation: 23
+Average Fitness: 169.39999999999682
+
+Generation: 24
+Average Fitness: 169.39999999999682
+
+Generation: 25
+Average Fitness: 169.39999999999682
+
+Generation: 26
+Average Fitness: 169.39999999999682
+
+Generation: 27
+Average Fitness: 169.39999999999682
+
+Generation: 28
+Average Fitness: 169.39999999999682
+
+Starting Population: 1000
+Max fitness after 5000 generations: 169.39999999999998
+Items taken:
+utility: 6.4, weight: 14.9
+utility: 4.5, weight: 17.4
+utility: 2.4, weight: 15.5
+utility: 2.6, weight: 18.2
+utility: 4.0, weight: 11.0
+utility: 9.6, weight: 19.3
+utility: 7.3, weight: 16.3
+utility: 6.7, weight: 15.0
+utility: 2.0, weight: 4.6
+utility: 2.6, weight: 7.2
+utility: 6.3, weight: 15.5
+utility: 4.2, weight: 1.5
+utility: 9.0, weight: 13.1
+utility: 4.6, weight: 4.1
+utility: 7.1, weight: 5.3
+utility: 1.5, weight: 7.0
+utility: 9.3, weight: 3.6
+utility: 5.6, weight: 7.4
+utility: 7.8, weight: 1.9
+utility: 5.4, weight: 18.4
+utility: 3.9, weight: 8.2
+utility: 9.5, weight: 2.9
+utility: 7.8, weight: 18.9
+utility: 2.1, weight: 9.4
+utility: 8.2, weight: 14.6
+utility: 7.3, weight: 19.7
+utility: 8.7, weight: 14.3
+utility: 2.5, weight: 13.6
+utility: 2.0, weight: 12.0
+utility: 1.8, weight: 11.8
+utility: 6.7, weight: 9.8
+Total utility: 169.39999999999998
